@@ -1,4 +1,4 @@
-# 133x - Cybersecurity & IT Consulting Website
+# 133x Cybersec & IT Consulting Website
 
 Welcome to the 133x-bit repository! This project hosts the company website for 133x-bit, a consulting firm specializing in cybersecurity, IT networking, and corporate IT solutions. Egghead Consulting, a division of 133x, offers specialized services within these areas to help businesses optimize their digital infrastructure.
 
@@ -28,7 +28,7 @@ Egghead Consulting is a division of 133x-bit, dedicated to offering expert IT co
 ## Project Overview
 This repository contains:
 - The **source code** for the Egghead website.
-- **Static content** that highlights our services, the relation with 133x-, and contact details.
+- **Static content** that highlights our services, the relation with 133x-bit, and contact details.
 - Configuration files for deploying the site via GitHub Pages.
 
 The website is fully responsive, ensuring a seamless user experience across devices, and it can be easily extended to include additional features as the company grows.
