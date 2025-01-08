@@ -1,28 +1,34 @@
 # 133x - Cybersecurity & IT Consulting Website
 
-Welcome to the **133x-bit** repository! This project hosts the company website for 133x-bit, a consulting firm specializing in cybersecurity, IT networking, and corporate IT solutions. This repository is designed to showcase our services, connect with clients, and provide a professional online presence.
+Welcome to the 133x-bit repository! This project hosts the company website for 133x-bit, a consulting firm specializing in cybersecurity, IT networking, and corporate IT solutions. Egghead Consulting, a division of 133x, offers specialized services within these areas to help businesses optimize their digital infrastructure.
 
 ---
 
 ## Table of Contents
-1. [About Egghead](#about-egghead)
-2. [Project Overview](#project-overview)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Getting Started](#getting-started)
-6. [How to Contribute](#how-to-contribute)
+1. [About 133x](#about-133x)
+2. [About Egghead](#about-egghead)
+3. [Project Overview](#project-overview)
+4. [Features](#features)
+5. [Technologies Used](#technologies-used)
+6. [Getting Started](#getting-started)
+7. [How to Contribute](#how-to-contribute)
+
+---
+
+## About 133x
+133x-bit is the parent company that provides a wide range of IT solutions, from cybersecurity and networking to corporate IT consulting. The Egghead Consulting division focuses specifically on cybersecurity and IT networking, providing tailored solutions to safeguard digital assets and optimize business infrastructures. Learn more about us at [133x-bit](https://133x-bit.github.io/133x-bit/).
 
 ---
 
 ## About Egghead
-Egghead is your trusted partner for IT consulting. Whether you need to secure your digital assets, optimize network performance, or troubleshoot corporate IT issues, we are here to help. Learn more about us at [133x-bit](https://133x-bit.github.io/133x-bit/).
+Egghead Consulting is a division of 133x-bit, dedicated to offering expert IT consulting in cybersecurity, IT networking, and corporate IT solutions. Whether you need to secure your digital assets, troubleshoot IT systems, or improve network performance, Egghead is your trusted partner for cutting-edge, scalable solutions. Learn more about us at [133x-bit](https://133x-bit.github.io/133x-bit/).
 
 ---
 
 ## Project Overview
 This repository contains:
 - The **source code** for the Egghead website.
-- **Static content** that highlights our services and contact details.
+- **Static content** that highlights our services, the relation with 133x-, and contact details.
 - Configuration files for deploying the site via GitHub Pages.
 
 The website is fully responsive, ensuring a seamless user experience across devices, and it can be easily extended to include additional features as the company grows.
@@ -31,7 +37,7 @@ The website is fully responsive, ensuring a seamless user experience across devi
 
 ## Features
 - **Responsive Design**: Works on desktop, tablet, and mobile.
-- **Custom Domain Support**: Hosted at `egghead.io` (or your chosen domain).
+- **Custom Domain Support**: Hosted on GitHub Pages at [133x-bit](https://133x-bit.github.io/133x-bit/).
 - **Service Descriptions**: Highlights our core offerings (cybersecurity, IT consulting, networking).
 - **Contact Form**: Enables potential clients to reach out directly.
 - **Future-Ready**: Easily extendable to include blogs, portfolios, or testimonials.
